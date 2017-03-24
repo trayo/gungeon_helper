@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "intent": "GetGunInformationIntent",
+      "slots": [
+        {
+          "name": "Gun",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "intent": "GetQualityIntent",
+      "slots": [
+        {
+          "name": "string",
+          "type": "string"
+        },
+        {
+          "name": "string",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "intent": "GetDamageIntent",
+      "slots": [
+        {
+          "name": "string",
+          "type": "string"
+        },
+        {
+          "name": "string",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}
