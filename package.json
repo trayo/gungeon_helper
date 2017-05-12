@@ -1,0 +1,21 @@
+{
+  "name": "gungeon_helper",
+  "version": "0.1.0",
+  "description": "Alexa skill for Enter the Gungeon",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "skills",
+    "gungeon"
+  ],
+  "author": "Travis Yoder",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9"
+  },
+  "repository": "https://github.com/trayo/gungeon_helper"
+}
