@@ -13,11 +13,7 @@
       "intent": "GetQualityIntent",
       "slots": [
         {
-          "name": "string",
-          "type": "string"
-        },
-        {
-          "name": "string",
+          "name": "Gun",
           "type": "string"
         }
       ]
@@ -26,11 +22,7 @@
       "intent": "GetDamageIntent",
       "slots": [
         {
-          "name": "string",
-          "type": "string"
-        },
-        {
-          "name": "string",
+          "name": "Gun",
           "type": "string"
         }
       ]
