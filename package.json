@@ -4,7 +4,7 @@
   "description": "Alexa skill for Enter the Gungeon",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jasmine"
   },
   "keywords": [
     "alexa",
@@ -15,7 +15,13 @@
   "author": "Travis Yoder",
   "license": "MIT",
   "dependencies": {
-    "alexa-sdk": "^1.0.9"
+    "alexa-sdk": "^1.0.9",
+    "file": "^0.2.2",
+    "filereader": "^0.10.3",
+    "papaparse": "^4.3.2"
   },
-  "repository": "https://github.com/trayo/gungeon_helper"
+  "repository": "https://github.com/trayo/gungeon_helper",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
 }

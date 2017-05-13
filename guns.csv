@@ -2,205 +2,205 @@ Icon,Name,Quote,Quality,Type,Magazine Size,Ammo Capacity,Damage,Fire Rate,Reload
 38 Special.png,38 Special,For The Inquisitive,D Quality Item.png,Semiautomatic,6,350,5,0.07,0.78,23,35,10,5,Fires faster right after a dodge roll.
 A.W.P..png,A.W.P.,Noob Cannon,A Quality Item.png,Semiautomatic,10,60,40,1.20,2.1,100,Infinity.png,25,5,Fires bullets that can pierce through one enemy.
 AK-47.png,AK-47,Accept No Substitutes,B Quality Item.png,Automatic,30,500,5.5,0.11,0.6,23,Infinity.png,9,4,
-AKEY-47.png,AKEY-47,Unlocked And Loaded!,1S Quality Item.png,Automatic,30,500,5.5,0.11,0.6,23,Infinity.png,9a,4,Opening a locked chest or door with the gun equipped opens it for free. Alternatively, shooting a locked chest or door unlocks it.
+AKEY-47.png,AKEY-47,Unlocked And Loaded!,1S Quality Item.png,Automatic,30,500,5.5,0.11,0.6,23,Infinity.png,9a,4,Opening a locked chest or door with the gun equipped opens it for free. Alternatively shooting a locked chest or door unlocks it.
 AU Gun.png,AU Gun,Some Assembly Required,1S Quality Item.png,Semiautomatic,1,22,100,0.20,1.2,25,Infinity.png,10,0,Fires a single powerful bullet.
-Abyssal Tentacle.png,Abyssal Tentacle,Look Away,A Quality Item.png,Beam,500,500,22.5/s,0.10,N/A,Infinity.png,30,10,0,Fires a tentacle that homes in on and grips enemies, damaging them.
-Alien Engine.png,Alien Engine,The Dangerzone,B Quality Item.png,Automatic,400,1000,10,0.02,0.9,30,3,10,0,Rapid fire weapon that has a very short range, only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil.
-Alien Sidearm.png,Alien Sidearm,Shield Breaker,D Quality Item.png,Charged,10,350,Uncharged: 5 Charged: 25 0.15,1.2,23,15,10,5,Charged shots are larger and deal more damage.
+Abyssal Tentacle.png,Abyssal Tentacle,Look Away,A Quality Item.png,Beam,500,500,22.5/s,0.10,N/A,Infinity.png,30,10,0,Fires a tentacle that homes in on and grips enemies damaging them.
+Alien Engine.png,Alien Engine,The Dangerzone,B Quality Item.png,Automatic,400,1000,10,0.02,0.9,30,3,10,0,Rapid fire weapon that has a very short range only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil.
+Alien Sidearm.png,Alien Sidearm,Shield Breaker,D Quality Item.png,Charged,10,350,Uncharged: 5 Charged: 25,0.15,1.2,23,15,10,5,Charged shots are larger and deal more damage.
 Anvillain.png,Anvillain,Practical And Safe,C Quality Item.png,Charged,3,60,10,0.10,0.5,20,Infinity.png,8,5,Fires piercing anvils that knock back and stun enemies.
 BSG.png,BSG,Big Shooty Gun,1S Quality Item.png,Charged,1,25,50,4.00,2.4,25,Infinity.png,10,0,Slowly charges up to fire a large high-damage projectile.
 Bait Launcher.png,Bait Launcher,Meat Your Maker,C Quality Item.png,Charged,1,60,10,0.50,1.0,20,Infinity.png,8,5,Fires a steak that causes a tiger to appear and maul the target.
-Balloon Gun.png,Balloon Gun,Hot Air,C Quality Item.png,Automatic,10,250,12,,,,,,,Fires small tornadoes. Grants flight while held, but loses all ammo if damage is taken while it is held.
+Balloon Gun.png,Balloon Gun,Hot Air,C Quality Item.png,Automatic,10,250,12,,,,,,,Fires small tornadoes. Grants flight while held but loses all ammo if damage is taken while it is held.
 Banana.png,Banana,Planpain,C Quality Item.png,Charged,7,50,10 (impact) + 30 (explosion),1.00,0.01,23,Infinity.png,35,6,Fires an explosive banana that sends out three more bouncing explosive bananas.
 Barrel.png,Barrel,Nothin' Easier,C Quality Item.png,Semiautomatic,9,300,8,0.20,0.78,20,Infinity.png,13,7,Fires fish that have a chance to stun enemies and leave pools of water.
 Bee Hive.png,Bee Hive,Bzzzzzzz!,B Quality Item.png,Automatic,150,300,3,0.10,0.06,9,Infinity.png,2,90,Fires bees that home in on and damage enemies.
-Betrayer's Shield.png,Betrayer's Shield,Actually A Gun,B Quality Item.png,Automatic,12,350,6,0.10,1.5,23,18,12,5,Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets.
-Big Iron.png,Big Iron,Heavy,B Quality Item.png,Semiautomatic,6,150,7x3 (21) 0.07,1.2,16,16,10,4,Fires a random spread of three bullets.
+Betrayer's Shield.png,Betrayer's Shield,Actually A Gun,B Quality Item.png,Automatic,12,350,6,0.10,1.5,23,18,12,5,Upon reloading leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets.
+Big Iron.png,Big Iron,Heavy,B Quality Item.png,Semiautomatic,6,150,7x3 (21),0.07,1.2,16,16,10,4,Fires a random spread of three bullets.
 Black Hole Gun.png,Black Hole Gun,Won't You Come,A Quality Item.png,Charged,1,30,10,1.00,1.56,4,Infinity.png,9,0,Fires black holes that attract enemies and enemy bullets.
-Blasphemy.png,Blasphemy,To The Point,B Quality Item.png,Semiautomatic,N/A,Infinity.png,14,0.20,1.0,26,Infinity.png,10,10,Starting weapon of The Bullet. Swinging the sword destroys bullets and damages enemies. When at full health, swinging the sword also sends out a piercing sword projectile. Does not reveal secret walls.
-Blooper.png,Blooper,Close Your Bloop,B Quality Item.png,Semiautomatic,5,80,7x6 (42) 0.40,2.0,23,60,30,0,Fires shotgun blasts of blue bullets with high knockback.
-Blunderbuss.png,Blunderbuss,Shoots Anything,D Quality Item.png,Charged,4,100,3x10 (30) 0.50,1.2,26,Infinity.png,25,20,Fires a short-ranged spray of bullets.
-Bow.png,Bow,Hold Fire To Charge,C Quality Item.png,Charged,1,100,Uncharged: 7.5 Charged: 30 1.00,0.12,26,Infinity.png,25,0,Pierces enemies when fully charged.
+Blasphemy.png,Blasphemy,To The Point,B Quality Item.png,Semiautomatic,N/A,Infinity.png,14,0.20,1.0,26,Infinity.png,10,10,Starting weapon of The Bullet. Swinging the sword destroys bullets and damages enemies. When at full health swinging the sword also sends out a piercing sword projectile. Does not reveal secret walls.
+Blooper.png,Blooper,Close Your Bloop,B Quality Item.png,Semiautomatic,5,80,7x6 (42),0.40,2.0,23,60,30,0,Fires shotgun blasts of blue bullets with high knockback.
+Blunderbuss.png,Blunderbuss,Shoots Anything,D Quality Item.png,Charged,4,100,3x10 (30),0.50,1.2,26,Infinity.png,25,20,Fires a short-ranged spray of bullets.
+Bow.png,Bow,Hold Fire To Charge,C Quality Item.png,Charged,1,100,Uncharged: 7.5 Charged: 30,1.00,0.12,26,Infinity.png,25,0,Pierces enemies when fully charged.
 Brick Breaker.png,Brick Breaker,Wrong Kind Of Mortar,C Quality Item.png,Semiautomatic,5,200,10,0.50,1.2,20,Infinity.png,10,2,Fires turtle shells which pierce through enemies and bounce off of walls.
 Budget Revolver.png,Budget Revolver,Affordable Arms,N/A,Semiautomatic,5,Infinity.png,6,0.15,0.9,23,18,10,10,Starting weapon of The Convict. Does not reveal secret walls.
 Bullet (Gun).png,Bullet,Fires Guns,C Quality Item.png,Semiautomatic,6,250,Gun: 7 Bullet: 4,,,,,,,Fires rotating guns which fire bullets as they travel.
-Bullet Bore.png,Bullet Bore,Mind Muncher,A Quality Item.png,Semiautomatic,1,75,10 (impact) + 25 (explosion),1.00,1.5,20,Infinity.png,8,5,Fires drills that home in on enemies, stun them, and explode after a short delay.
-Bundle of Wands.png,Bundle of Wands,Dark Arts,C Quality Item.png,Semiautomatic,6,150,7x3 (21) 0.30,1.5,23,60,30,5,Has a chance to transmogrify enemies.
-Buzzkill.png,Buzzkill,Sawed On!,C Quality Item.png,Semiautomatic,12,350,7,0.20,1.2,25,Infinity.png,10,5,Fires piercing, bouncing sawblades.
+Bullet Bore.png,Bullet Bore,Mind Muncher,A Quality Item.png,Semiautomatic,1,75,10 (impact) + 25 (explosion),1.00,1.5,20,Infinity.png,8,5,Fires drills that home in on enemies stun them and explode after a short delay.
+Bundle of Wands.png,Bundle of Wands,Dark Arts,C Quality Item.png,Semiautomatic,6,150,7x3 (21),0.30,1.5,23,60,30,5,Has a chance to transmogrify enemies.
+Buzzkill.png,Buzzkill,Sawed On!,C Quality Item.png,Semiautomatic,12,350,7,0.20,1.2,25,Infinity.png,10,5,Fires piercing bouncing sawblades.
 Cactus.png,Cactus,1000 Needles!,C Quality Item.png,Automatic,1000,1000,2.5,0.10,0.0,60,Infinity.png,1,7,Fires needles.
 Camera.png,Camera,Say Cheese,C Quality Item.png,Charged,4,60,10,0.20,2.0,60,Infinity.png,1,7,Damages all enemies in the room. Has a chance to stun enemies.
 Casey.png,Casey,Batting .50,D Quality Item.png,Charged,1,Infinity.png,100,,,,,,,Swinging the bat damages enemies and reflects nearby bullets. Does not reveal secret walls.
 Cat Claw.png,Cat Claw,Kneadle Your Foes!,A Quality Item.png,Automatic,33,400,2 (impact) + 10 (explosion),0.15,1.2,23,Infinity.png,2,5,Fires darts that home in on enemies and explode after a short delay. The darts deal no damage on contact.
 Charge Shot.png,Charge Shot,Hold To Fire,B Quality Item.png,Charged,1,50,30,0.01,1.0,26,Infinity.png,25,5,Fires a large laser that pierces enemies and bounces off of walls.
-Charmed Bow.png,Charmed Bow,<3-----<<<,B Quality Item.png,Charged,1,150,Uncharged: 7.5 Charged: 14 0.0,,,,,Charms enemies when fully charged.
-Cobalt Hammer.png,Cobalt Hammer,Break Stuff,A Quality Item.png,Charged,6,60,Uncharged: 26 Charged: 36 0.30,1.2,100,Infinity.png,80,0,Fires blue lasers. Charging the weapon makes it fire lasers in four directions.
+Charmed Bow.png,Charmed Bow,<3-----<<<,B Quality Item.png,Charged,1,150,Uncharged: 7.5 Charged: 14,0.0,,,,,,Charms enemies when fully charged.
+Cobalt Hammer.png,Cobalt Hammer,Break Stuff,A Quality Item.png,Charged,6,60,Uncharged: 26 Charged: 36,0.30,1.2,100,Infinity.png,80,0,Fires blue lasers. Charging the weapon makes it fire lasers in four directions.
 Cold 45.png,Cold 45,Shatterday Night Special,B Quality Item.png,Semiautomatic,12,350,6,0.15,1.2,28,35,10,6,Fires bullets that freeze enemies.
 Colt 1851.png,Colt 1851,You Dig,C Quality Item.png,Burst,12,350,6,0.21,1.5,25,Infinity.png,10,8,Fires a burst of two bullets.
 Com4nd0.png,Com4nd0,You're Fired,B Quality Item.png,Semiautomatic,4,40,20 (impact) + 25 (explosion),0.60,1.5,14,90,10,5,Fires homing rockets.
-Composite Gun.png,Composite Gun,Undetectable,1S Quality Item.png,Charged,2,50,Uncharged: 40 Charged: 100 0.20,0.6,25,Infinity.png,10,0,Charged shot consumes all ammo in magazine and can pierce enemies.
-Compressed Air Tank.png,Compressed Air Tank,You Know My Work,A Quality Item.png,Charged,1,50,50,0.60,1.2,35,Infinity.png,60,6,Fires sharks that swim around the room, seeking enemies and biting them.
+Composite Gun.png,Composite Gun,Undetectable,1S Quality Item.png,Charged,2,50,Uncharged: 40 Charged: 100,0.20,0.6,25,Infinity.png,10,0,Charged shot consumes all ammo in magazine and can pierce enemies.
+Compressed Air Tank.png,Compressed Air Tank,You Know My Work,A Quality Item.png,Charged,1,50,50,0.60,1.2,35,Infinity.png,60,6,Fires sharks that swim around the room seeking enemies and biting them.
 Corsair.png,Corsair,Plot A Course,C Quality Item.png,Charged,1,200,10,0,0.5,26,Infinity.png,25,5,Fires slow-moving bullets that accelerate and bounce around the room.
-Crescent Crossbow.png,Crescent Crossbow,Moon Shot,A Quality Item.png,Charged,12,100,Large: 22 Medium: 8 Small: 3 0.20,1.5,32,Infinity.png,20,0,Fires stars that split into smaller bouncing stars.
+Crescent Crossbow.png,Crescent Crossbow,Moon Shot,A Quality Item.png,Charged,12,100,Large: 22 Medium: 8 Small: 3,0.20,1.5,32,Infinity.png,20,0,Fires stars that split into smaller bouncing stars.
 Crestfaller.png,Crestfaller,Cold Reality,C Quality Item.png,Semiautomatic,8,250,10,0.45,1.2,40,Infinity.png,11,6,Fires bullets that slow and freeze enemies.
 Crossbow.png,Crossbow,The Original,D Quality Item.png,Semiautomatic,1,100,22,0.50,0.75,26,Infinity.png,25,7,Fires bolts.
 Crown of Guns.png,Crown of Guns,All Hail,C Quality Item.png,Automatic,Infinity.png,3000,5.5,,,,,,,Sits atop the player's head and fires bullets in all directions.
-Dark Marker.png,Dark Marker,Big Bang,1S Quality Item.png,Semiautomatic,12,200,Bullets: 8 Explosion: 80 0.20,2.0,32,Infinity.png,20,0,Charge shot consumes the entire clip to create a room-wide explosion and blank effect.
+Dark Marker.png,Dark Marker,Big Bang,1S Quality Item.png,Semiautomatic,12,200,Bullets: 8 Explosion: 80,0.20,2.0,32,Infinity.png,20,0,Charge shot consumes the entire clip to create a room-wide explosion and blank effect.
 Dart Gun.png,Dart Gun,Sticky,N/A,Semiautomatic,6,Infinity.png,6,0.20,1.0,20,25,2,5,Fires sticky darts. Starting weapon of The Cultist. Does not reveal secret walls.
 Deck4rd.png,Deck4rd,Unicorn Of Handguns,A Quality Item.png,Semiautomatic,2,40,5 (impact) + 35 (explosion),0.20,1.5,20,Infinity.png,22,10,Fires a single powerful bullet that will explode upon impact.
 Demon Head.png,Demon Head,Wanged,B Quality Item.png,Beam,500,500,31/s,0.10,N/A,100,40,30,5,Fires a continuous beam that has a chance to inflict Burn and slightly homes in on enemies.
 Derringer.png,Derringer,One Last Trick,D Quality Item.png,Semiautomatic,2,200,10,0.07,1.2,23,60,30,6,
-Devolver.png,Devolver,Degenerates,C Quality Item.png,Semiautomatic,6,100,6,,,,,
-Directional Pad.png,Directional Pad,Input Output,B Quality Item.png,Automatic,30,120,8 (normal) 45 (fireball) 10 (grappling hook),,,,,,,Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo, it is destroyed but spawns a chest that contains a gun.
+Devolver.png,Devolver,Degenerates,C Quality Item.png,Semiautomatic,6,100,6,,,,,,,Has a chance to devolve enemies into simpler enemies.
+Directional Pad.png,Directional Pad,Input Output,B Quality Item.png,Automatic,30,120,8 (normal) 45 (fireball) 10 (grappling hook),,,,,,,Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo it is destroyed but spawns a chest that contains a gun.
 Disintegrator.png,Disintegrator,Return To Dust,1S Quality Item.png,Beam,500,500,70/s,0.10,N/A,120,50,0,0,Fires a large laser after a long charge-up.
 Dragunfire.png,Dragunfire,Roar,A Quality Item.png,Automatic,30,600,5,0.05,1.6,25,Infinity.png,27,7,Rapidly fires burning bullets that have a chance to inflict Burn.
-Dueling Laser.png,Dueling Laser,More interesting this way!,B Quality Item.png,Semiautomatic,1,Infinity.png,100,,,,,,,Fires a large, piercing, high-damage laser. Needs to recharge after each shot.
+Dueling Laser.png,Dueling Laser,More interesting this way!,B Quality Item.png,Semiautomatic,1,Infinity.png,100,,,,,,,Fires a large piercing high-damage laser. Needs to recharge after each shot.
 Dueling Pistol.png,Dueling Pistol,Ricochet,D Quality Item.png,Semiautomatic,1,120,10,0.20,1.2,30,Infinity.png,15,8,Fires large piercing bullets that bounce twice.
-Dungeon Eagle.png,Dungeon Eagle,Caw!,C Quality Item.png,Charged,9,200,Uncharged: 10 Charged: 20 0.20,1.2,25,60,10,10,Can be charged to fire more powerful shots.
-Elephant Gun.png,Elephant Gun,Shoots Elephants,C Quality Item.png,Semiautomatic,2,120,5.5x6 (33) 0.60,1.5,23,60,30,0,Fires a cone spread of bullets and has strong knockback.
-Excaliber.png,Excaliber,Once And Future,B Quality Item.png,Burst,32,280,7,0.15,0.48,26,Infinity.png,15,0,Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging nearby enemies. Increases curse by 2.5.
+Dungeon Eagle.png,Dungeon Eagle,Caw!,C Quality Item.png,Charged,9,200,Uncharged: 10 Charged: 20,0.20,1.2,25,60,10,10,Can be charged to fire more powerful shots.
+Elephant Gun.png,Elephant Gun,Shoots Elephants,C Quality Item.png,Semiautomatic,2,120,5.5x6 (33),0.60,1.5,23,60,30,0,Fires a cone spread of bullets and has strong knockback.
+Excaliber.png,Excaliber,Once And Future,B Quality Item.png,Burst,32,280,7,0.15,0.48,26,Infinity.png,15,0,Fires a burst of three piercing sword projectiles. Reloading swings the sword destroying nearby bullets and damaging nearby enemies. Increases curse by 2.5.
 Eye of the Beholster.png,Eye of the Beholster,What A Beauty!,B Quality Item.png,Semiautomatic,12,300,6,0.15,1.2,200,Infinity.png,4,4,The last shot of each clip spawns a friendly Beadie.
-Face Melter.png,Face Melter,Squiddley-squiddley-wheeyooo!,B Quality Item.png,Automatic,600,600,3,0.10,1.2,15,15,13,6,Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired, the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one.
-Fightsabre.png,Fightsabre,Heresy,1S Quality Item.png,Automatic,25,500,6,0.15,1.5,23,50,10,8,Reloading swings the gun around, reflecting nearby bullets. Increases curse by 2.
+Face Melter.png,Face Melter,Squiddley-squiddley-wheeyooo!,B Quality Item.png,Automatic,600,600,3,0.10,1.2,15,15,13,6,Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one.
+Fightsabre.png,Fightsabre,Heresy,1S Quality Item.png,Automatic,25,500,6,0.15,1.5,23,50,10,8,Reloading swings the gun around reflecting nearby bullets. Increases curse by 2.
 Flame Hand.png,Flame Hand,2D6 + Int Mod,B Quality Item.png,Semiautomatic,100,200,Varying,,0.0,23,Infinity.png,35,0,Fires fireballs that pierce enemies and have a chance to set enemies on fire.
 Flare Gun.png,Flare Gun,Over Here,D Quality Item.png,Semiautomatic,1,150,13,0.10,0.8,23,Infinity.png,35,6,Fires bullets that have a chance to set enemies on fire.
 Flash Ray.png,Flash Ray,Ah Ahhh!,D Quality Item.png,Semiautomatic,8,350,7.5,0.20,1.2,600,Infinity.png,4,10,Shoots lasers that pierce enemies. Has a chance to stun enemies.
-Fossilized Gun.png,Fossilized Gun,Proof That Guns Once Existed,D Quality Item.png,Beam,500,500,15/s,0.10,N/A,15,20,40,0,Fires a stream of oil. Reloading causes the skull to spit fire, which can ignite the oil.
+Fossilized Gun.png,Fossilized Gun,Proof That Guns Once Existed,D Quality Item.png,Beam,500,500,15/s,0.10,N/A,15,20,40,0,Fires a stream of oil. Reloading causes the skull to spit fire which can ignite the oil.
 Freeze Ray.png,Freeze Ray,Ice To Meet You,A Quality Item.png,Beam,500,500,20/s,0.10,N/A,60,30,10,0,Fires a blue laser that has a chance to freeze enemies.
 Frost Giant.png,Frost Giant,Icy Grasp,B Quality Item.png,Semiautomatic,12,130,12,0.001,1.6,20,30,10,12,Fires big bullets that have a chance to freeze enemies.
 Gamma Ray.png,Gamma Ray,Mean Green,C Quality Item.png,Beam,800,800,15/s,0.10,N/A,Infinity.png,50,10,0,Fires a green laser that has a chance to poison enemies and slightly homes in on enemies.
-Gilded Hydra.png,Gilded Hydra,Heads Up!,1S Quality Item.png,Semiautomatic,1+,50,7.5x8 (60) 0.40,2.0,23,60,30,0,Fires a large burst of piercing, bouncing bullets. Clip size is increased by 1 for each half heart the player is missing, and healing decreases clip size.
+Gilded Hydra.png,Gilded Hydra,Heads Up!,1S Quality Item.png,Semiautomatic,1+,50,7.5x8 (60),0.40,2.0,23,60,30,0,Fires a large burst of piercing bouncing bullets. Clip size is increased by 1 for each half heart the player is missing and healing decreases clip size.
 Glacier.png,Glacier,Refill Your Trays,C Quality Item.png,Automatic,12,120,8 (impact) + 6 (explosion),0.50,1.5,18,35,8,5,Fires bouncing ice cubes that explode and freeze enemies.
 Grasschopper.png,Grasschopper,Noisy,A Quality Item.png,Semiautomatic,1,30,20 (impact) + 20 (explosion),0.07,2.0,36,18,22,5,Fires a single powerful blast that has very strong recoil.
 Grenade Launcher.png,Grenade Launcher,Fwomp!,B Quality Item.png,Semiautomatic,1,25,10 (impact) + 25 (explosion),1.20,0.78,20,20,20,4,Shoots a grenade that bounces off of surfaces and explodes on impact with enemies.
 Grey Mauser (Gun).png,Grey Mauser,Silent And Deadly,B Quality Item.png,Semiautomatic,15,100,8,0.10,1.5,32,Infinity.png,9,8,Reloading an empty clip makes the player invisible. Can be used to steal from shops.
-Gunbow.png,Gunbow,Failed Experiment,A Quality Item.png,Charged,1,60,35,0.001,1.0,26,Infinity.png,25,0,Fires a fast, piercing projectile that ricochets many times.
-Gungeon Ant.png,Gungeon Ant,What Army?,C Quality Item.png,Semiautomatic,6,100,Oil: 2x3 (6) Fire: 1.5x3 (4.5) 0,1.2,26,Infinity.png,25,0,Reloading alternates between firing spreads of bullets that leave behind oil and flaming bullets.
+Gunbow.png,Gunbow,Failed Experiment,A Quality Item.png,Charged,1,60,35,0.001,1.0,26,Infinity.png,25,0,Fires a fast piercing projectile that ricochets many times.
+Gungeon Ant.png,Gungeon Ant,What Army?,C Quality Item.png,Semiautomatic,6,100,Oil: 2x3 (6) Fire: 1.5x3 (4.5),0,1.2,26,Infinity.png,25,0,Reloading alternates between firing spreads of bullets that leave behind oil and flaming bullets.
 Gungine.png,Gungine,12 Cylinder,1S Quality Item.png,Automatic,100,800,5,0.05,1.14,35,Infinity.png,15,6,Greatly increases movement speed while held. Reloading clears nearby goop and refills the gun's ammo.
-Gunslinger's Ashes.png,Gunslinger's Ashes,Spirit, Willing,C Quality Item.png,Semiautomatic,6,80,Contact: 12 Shots: 5x3 (15),0.60,1.2,1,6,25,0,Releases an armed spirit that attacks enemies.
+Gunslinger's Ashes.png,Gunslinger's Ashes,Spirit Willing,C Quality Item.png,Semiautomatic,6,80,Contact: 12 Shots: 5x3 (15),0.60,1.2,1,6,25,0,Releases an armed spirit that attacks enemies.
 Gunther.png,Gunther,Jealous Weapon,1S Quality Item.png,Semiautomatic,15,Infinity.png,6,0.10,1.2,16,50,20,10,Cannot be used to reveal hidden walls. Grows stronger with each room cleared.
-Gunzheng.png,Gunzheng,Hustle,B Quality Item.png,Automatic,350,800,6,0.07,0.0,32,Infinity.png,8,35,Rapidly fires inaccurate, piercing, homing arrows.
-H4mmer.png,H4mmer,Many Bullets,B Quality Item.png,Automatic,30,450,Bullets: 3.8 Hammer: 20 0.05,0.6,23,Infinity.png,6,7,Fires a barrage of bullets. The last shot in the magazine is a hammer, which deals extra damage and can stun enemies.
-Heck Blaster.png,Heck Blaster,Whoa, Nelly,B Quality Item.png,Automatic,999,999,2.5,0.05,0.3,40,14,3,8,Rapidly fires invisible bullets.
+Gunzheng.png,Gunzheng,Hustle,B Quality Item.png,Automatic,350,800,6,0.07,0.0,32,Infinity.png,8,35,Rapidly fires inaccurate piercing homing arrows.
+H4mmer.png,H4mmer,Many Bullets,B Quality Item.png,Automatic,30,450,Bullets: 3.8 Hammer: 20, 0.05,0.6,23,Infinity.png,6,7,Fires a barrage of bullets. The last shot in the magazine is a hammer which deals extra damage and can stun enemies.
+Heck Blaster.png,Heck Blaster,Whoa Nelly,B Quality Item.png,Automatic,999,999,2.5,0.05,0.3,40,14,3,8,Rapidly fires invisible bullets.
 Hegemony Carbine.png,Hegemony Carbine,All The Same,C Quality Item.png,Automatic,25,600,3.5,0.10,1.4,30,50,4,5,Shoots rapid fire white bolts of energy.
 Hegemony Rifle.png,Hegemony Rifle,So Precise,B Quality Item.png,Semiautomatic,15,250,10,0.25,1.2,35,15,15,13,Rapidly fires inaccurate white lasers.
-Helix.png,Helix,Splice 'n' Dice,C Quality Item.png,Semiautomatic,12,250,7.5x2 (15) 0.07,2.0,35,35,10,7,Fires two bullets in a helix pattern.
-Heroine.png,Heroine,Charge Beam Active,B Quality Item.png,Charged,6,200,Level 1: 5 Level 2: 10 Level 3: 70 0.07,0.54,25,Infinity.png,10,0,Has 3 levels of damage depending on how long the gun has been charged.
+Helix.png,Helix,Splice 'n' Dice,C Quality Item.png,Semiautomatic,12,250,7.5x2 (15),0.07,2.0,35,35,10,7,Fires two bullets in a helix pattern.
+Heroine.png,Heroine,Charge Beam Active,B Quality Item.png,Charged,6,200,Level 1: 5 Level 2: 10 Level 3: 70, 0.07,0.54,25,Infinity.png,10,0,Has 3 levels of damage depending on how long the gun has been charged.
 Hexagun.png,Hexagun,Light Fantastic,B Quality Item.png,Semiautomatic,1,75,35,0.001,1.02,200,Infinity.png,25,0,Fires piercing bullets that have a chance to transmogrify enemies.
-Huntsman.png,Huntsman,Axes Of Evil,C Quality Item.png,Semiautomatic,6,150,3.5x6 (21) 0.65,1.2,23,50,10,10,Fires a shotgun blast of bullets. Reloading swings the gun, destroying nearby bullets. Increases curse by 1.
-Hyper Light Blaster.png,Hyper Light Blaster,Skill Honed Sharp,B Quality Item.png,Semiautomatic,12,12,20,,,,,,,Has very low ammo, but regenerates 1 ammo if a shot hits an enemy.
-Ice Breaker.png,Ice Breaker,Never Let Go,B Quality Item.png,Semiautomatic,3,200,Ice: 2x5 (10) Explosive: 35 0.40,0.9,23,60,30,0,The first two shots fire a shotgun blast of ice bullets, and the final shot fires a single explosive shot.
+Huntsman.png,Huntsman,Axes Of Evil,C Quality Item.png,Semiautomatic,6,150,3.5x6 (21),0.65,1.2,23,50,10,10,Fires a shotgun blast of bullets. Reloading swings the gun destroying nearby bullets. Increases curse by 1.
+Hyper Light Blaster.png,Hyper Light Blaster,Skill Honed Sharp,B Quality Item.png,Semiautomatic,12,12,20,,,,,,,Has very low ammo but regenerates 1 ammo if a shot hits an enemy.
+Ice Breaker.png,Ice Breaker,Never Let Go,B Quality Item.png,Semiautomatic,3,200,Ice: 2x5 (10) Explosive: 35,0.40,0.9,23,60,30,0,The first two shots fire a shotgun blast of ice bullets and the final shot fires a single explosive shot.
 Jolter.png,Jolter,.95 Caliber,B Quality Item.png,Semiautomatic,12,200,13,0.25,1.2,25,25,50,10,Fires large and rectangular bullets with high knockback.
 Klobbe.png,Klobbe,Everyone's Favorite,D Quality Item.png,Automatic,32,900,1.2,0.04,2.0,14,Infinity.png,1,20,Rapidly fires low-damage bullets.
 Laser Lotus.png,Laser Lotus,Level 5,A Quality Item.png,Semiautomatic,10,100,16,0.20,1.38,45,Infinity.png,26,5,Fires piercing lasers.
 Laser Rifle.png,Laser Rifle,Blast Off!,C Quality Item.png,Burst,24,500,5,0.50,1.2,200,60,16,5,Fires a burst of three lasers.
-Light Gun.png,Light Gun,Third-Party,B Quality Item.png,Semiautomatic,6,150,7,0.20,1.0,400,60,30,5,Fires zaps of light at enemies. The last bullet in the magazine is a duck, which will automatically seek out the nearest enemy and attack them.
+Light Gun.png,Light Gun,Third-Party,B Quality Item.png,Semiautomatic,6,150,7,0.20,1.0,400,60,30,5,Fires zaps of light at enemies. The last bullet in the magazine is a duck which will automatically seek out the nearest enemy and attack them.
 Lil' Bomber.png,Lil' Bomber,ReFuse To Lose!,D Quality Item.png,Charged,3,60,15 (impact) + 25 (explosion),1.00,2.0,23,Infinity.png,35,6,Fires a bomb that bounces off of solid objects and explodes on enemy contact.
 Lower Case r.png,Lower Case r,Alphabetical!,D Quality Item.png,Burst,36,900,2.222...,0.07,2.0,25,Infinity.png,14,0,Fires a burst of 6 bullets that spell out the word bullet.
 Luxin Cannon.png,Luxin Cannon,Omnichrome,C Quality Item.png,Automatic,45,600,4.5,0.07,2.0,60,Infinity.png,10,6,Fires laser shots at enemies. When the magazine is emptied the tip of the crystal will be launched for extra damage.
 M1.png,M1,Bolt Action,C Quality Item.png,Semiautomatic,6,100,20,0.80,1.3,200,60,25,2,Bullets penetrate enemies.
-M16.png,M16,Underslung,A Quality Item.png,Burst,30 (machine gun) 3 (grenade launcher),500,Gun: 5.5 Grenade: 10 (impact) + 25 (explosion) 0.10,1.2,23,Infinity.png,11,7,Reloading alternates between bursts of 3 bullets and a grenade launcher.
+M16.png,M16,Underslung,A Quality Item.png,Burst,30 (machine gun) 3 (grenade launcher),500,Gun: 5.5 Grenade: 10 (impact) + 25 (explosion), 0.10,1.2,23,Infinity.png,11,7,Reloading alternates between bursts of 3 bullets and a grenade launcher.
 M1911.png,M1911,Classic,C Quality Item.png,Semiautomatic,7,200,8,0.15,1.2,23,60,30,6,
 MAC10.png,MAC10,$#!^@ Never End,C Quality Item.png,Burst,30,600,3.5,0.07,1.0,23,Infinity.png,3,10,Fires a burst of four bullets.
-Machine Fist.png,Machine Fist,Avalanche Of Bullets,A Quality Item.png,Automatic,50 (gun) 1 (rocket) 500,Bullet: 4 Rocket: 20 (impact) + 30 (explosion) 0.07,1.0,27,Infinity.png,15,6,Reloading alternates between firing a gatling gun, and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing.
+Machine Fist.png,Machine Fist,Avalanche Of Bullets,A Quality Item.png,Automatic,50 (gun) 1 (rocket),500,Bullet: 4 Rocket: 20 (impact) + 30 (explosion),0.07,1.0,27,Infinity.png,15,6,Reloading alternates between firing a gatling gun and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing.
 Machine Pistol.png,Machine Pistol,Rapid Fire,D Quality Item.png,Automatic,30,600,3.2,0.07,1.2,23,16,6,10,
-Magic Lamp.png,Magic Lamp,One Wish, Three Times,B Quality Item.png,Semiautomatic,3,100,8,0.50,1.2,12,Infinity.png,10,5,Hitting an enemy three times causes a genie to punch them.
+Magic Lamp.png,Magic Lamp,One Wish Three Times,B Quality Item.png,Semiautomatic,3,100,8,0.50,1.2,12,Infinity.png,10,5,Hitting an enemy three times causes a genie to punch them.
 Magnum.png,Magnum,5 Shots Or 6?,B Quality Item.png,Semiautomatic,6,140,13,0.15,1.0,23,60,30,7,
-Mahoguny.png,Mahoguny,100% Organic,C Quality Item.png,Semiautomatic,10,350,Wood: 5 (impact) + 10 (explosion) Leaves: 4 0.40,1.2,15,30,20,0,Fires bouncing wood bullets along with several leaves.
-Mailbox.png,Mailbox,Special Delivery,D Quality Item.png,Semiautomatic,10,350,5,0.20,1.2,22,Infinity.png,10,10,Fires mail at enemies, with the final bullet in the magazine being a package. The package can explode, leave confetti, Burn, or Poison enemies.
+Mahoguny.png,Mahoguny,100% Organic,C Quality Item.png,Semiautomatic,10,350,Wood: 5 (impact) + 10 (explosion) Leaves: 4,0.40,1.2,15,30,20,0,Fires bouncing wood bullets along with several leaves.
+Mailbox.png,Mailbox,Special Delivery,D Quality Item.png,Semiautomatic,10,350,5,0.20,1.2,22,Infinity.png,10,10,Fires mail at enemies with the final bullet in the magazine being a package. The package can explode leave confetti Burn or Poison enemies.
 Makarov.png,Makarov,The People's Gun,D Quality Item.png,Semiautomatic,7,350,5,0.15,1.2,23,60,10,4,
 Makeshift Cannon.png,Makeshift Cannon,You Only Get One Shot,1S Quality Item.png,Charged,1,1,about 1213.3,0.50,2.1,35,Infinity.png,60,6,Fires a single blast that deals a large amount of damage.
 Marine Sidearm.png,Marine Sidearm,Always With You,N/A,Semiautomatic,10,Infinity.png,5,0.25,1.2,25,18,12,5,Starting gun of The Marine. Does not reveal secret walls.
-Mass Shotgun.png,Mass Shotgun,My Favorite Gun,B Quality Item.png,Automatic,1,200,Ball: 30 Split: 6x12 (72) 0.40,1.2,23,60,30,0,Shoots a large slow projectile that will split up in a barrage of small bullets shortly afterwards.
+Mass Shotgun.png,Mass Shotgun,My Favorite Gun,B Quality Item.png,Automatic,1,200,Ball: 30 Split: 6x12 (72),0.40,1.2,23,60,30,0,Shoots a large slow projectile that will split up in a barrage of small bullets shortly afterwards.
 Mega Douser.png,Mega Douser,Contents Under Pressure,D Quality Item.png,Beam,900,900,15/s,0.10,N/A,20,20,40,0,Fires a stream of water.
-Megahand.png,Megahand,-P-,B Quality Item.png,Charged,18,200,Uncharged: 6 Charged: 45 0.07,0.54,20,Infinity.png,8,0,Has 2 levels of damage depending on how long the gun has been charged.
-Microtransaction Gun.png,Microtransaction Gun,Pay To Win,A Quality Item.png,Semiautomatic,Equal to Coins held,-,2/8/15/20,0.20,N/A,,,,,Shoots various figurines, books, and gems at the cost of 1 coin per shot.
-Mine Cutter.png,Mine Cutter,Safety First,B Quality Item.png,Semiautomatic,12,250,Triple: 10 Single: 8 0.10,1.2,23,60,30,7,Reloading alternates between firing three small, piercing, parallel lasers and single large lasers.
+Megahand.png,Megahand,-P-,B Quality Item.png,Charged,18,200,Uncharged: 6 Charged: 45,0.07,0.54,20,Infinity.png,8,0,Has 2 levels of damage depending on how long the gun has been charged.
+Microtransaction Gun.png,Microtransaction Gun,Pay To Win,A Quality Item.png,Semiautomatic,Equal to Coins held,-,2/8/15/20,0.20,N/A,,,,,Shoots various figurines books and gems at the cost of 1 coin per shot.
+Mine Cutter.png,Mine Cutter,Safety First,B Quality Item.png,Semiautomatic,12,250,Triple: 10 Single: 8,0.10,1.2,23,60,30,7,Reloading alternates between firing three small piercing parallel lasers and single large lasers.
 Molotov Launcher.png,Molotov Launcher,Exactly What You Think,C Quality Item.png,Semiautomatic,1,80,6,1.50,2.5,18,35,13,5,Fires molotovs that set areas on fire.
 Moonscraper.png,Moonscraper,Beeeeoooowwww!,C Quality Item.png,Beam,500,500,26/s,0.10,N/A,Infinity.png,50,20,5,Fires a continuous laser that reflects when hitting anything solid for the first time.
 Mourning Star.png,Mourning Star,Satellite Rain,1S Quality Item.png,Beam,800,800,,,,,,,,Calls down a controllable orbital laser.
 Mutation.png,Mutation,Didn't Need Two Anyway,B Quality Item.png,Beam,500,500,45/s,0.10,N/A,40,20,50,5,Fires a continuous beam and heavily pushes back the player.
 Nail Gun.png,Nail Gun,Pest Control,D Quality Item.png,Semiautomatic,500,500,3,0.12,0.0,26,12,8,10,Fires a rapid stream of low damage nails. Fires faster if fire button is rapidly tapped rather than held.
-Old Goldie.png,Old Goldie,For The Discerning,A Quality Item.png,Semiautomatic,4,70,3.5x10 (35) 0.50,1.2,23,60,30,5,Increases coolness by 1.
+Old Goldie.png,Old Goldie,For The Discerning,A Quality Item.png,Semiautomatic,4,70,3.5x10 (35),0.50,1.2,23,60,30,5,Increases coolness by 1.
 Origuni.png,Origuni,Thousand Cuts,C Quality Item.png,Semiautomatic,8,300,7.5,0.20,1.2,,,,,Fires paper planes that follow the player's crosshair.
-Particulator.png,Particulator,Strange Matter,1S Quality Item.png,Semiautomatic,1,60,Large: 30 Small: 7 0.70,2.4,10,10,8,0,Fires a large bullet, which will split into 10 bullets which seek out enemies.
+Particulator.png,Particulator,Strange Matter,1S Quality Item.png,Semiautomatic,1,60,Large: 30 Small: 7,0.70,2.4,10,10,8,0,Fires a large bullet which will split into 10 bullets that seek out enemies.
 Patriot.png,Patriot,Gun Eater,1S Quality Item.png,Automatic,100,500,7,0.30,1.0,30,Infinity.png,15,1,Fires piercing bullets.  Fire rate increases rapidly as the trigger is held.
 Pea Shooter.png,Pea Shooter,Baby's First Gun,D Quality Item.png,Semiautomatic,6,1000,4,0.15,1.5,20,20,3,10,Fires peas.
 Phoenix.png,Phoenix,Reborn In Flame,D Quality Item.png,Semiautomatic,12,350,4,0.15,1.2,25,25,13,3,Firing a bullet creates a small cone of fire in front of the player that sets enemies on fire.
 Pitchfork.png,Pitchfork,Get Forked!,C Quality Item.png,Semiautomatic,100,200,4,0.15,0.0,23,Infinity.png,35,5,Fires fireballs that have a chance to Burn enemies.
 Plague Pistol.png,Plague Pistol,Chemical Warfare,D Quality Item.png,Semiautomatic,12,200,4,0.15,1.2,20,25,13,5,Fires bullets that leave poison goop on the ground and have a chance to poison enemies.
 Plunger.png,Plunger,Take Your Best Shot!,C Quality Item.png,Beam,500,500,5/s,0.10,N/A,20,20,40,0,Fires a stream of poison. Has a chance to Poison enemies and leaves poisonous puddles on the floor whenever it hits an enemy.
-Polaris.png,Polaris,Storied,B Quality Item.png,Semiautomatic,12,450,Level 1: 5 Level 2: 6x2 (12) Level 3: 20 0.07,0.6,40,Infinity.png,30,5,Has 3 levels. Killing enough enemies causes the gun to level up, increasing its damage. Taking damage decreases its level by 1.
+Polaris.png,Polaris,Storied,B Quality Item.png,Semiautomatic,12,450,Level 1: 5 Level 2: 6x2 (12) Level 3: 20,0.07,0.6,40,Infinity.png,30,5,Has 3 levels. Killing enough enemies causes the gun to level up increasing its damage. Taking damage decreases its level by 1.
 Poxcannon.png,Poxcannon,Lousy T-Shirt,C Quality Item.png,Semiautomatic,6,250,15,0.35,1.7,25,Infinity.png,60,5,Shoots poisonous t-shirts. Poisoned enemies leave behind pools of poison goop upon death.
 Proton Backpack.png,Proton Backpack,Crossing Streams,B Quality Item.png,Beam,500,500,50/s,0.10,N/A,14,90,30,0,Fires a homing laser.
 Prototype Railgun.png,Prototype Railgun,DANGER: HIGH VOLTAGE,A Quality Item.png,Charged,1,40,75,,0.6,,,,,Fires a fast-moving piercing bullet.
-Pulse Cannon.png,Pulse Cannon,Time Of Death…,C Quality Item.png,Semiautomatic,8,120,4x6 (24) 0.40,1.8,23,60,60,0,Fires a shotgun blast spread of 5 bullets.
-Quad Laser.png,Quad Laser,No One Can Defeat It,C Quality Item.png,Semiautomatic,1,50,80,0.07,1.5,1,15,32,5,Fires a large, square bullet that moves extremely slowly.
+Pulse Cannon.png,Pulse Cannon,Time Of Death…,C Quality Item.png,Semiautomatic,8,120,4x6 (24),0.40,1.8,23,60,60,0,Fires a shotgun blast spread of 5 bullets.
+Quad Laser.png,Quad Laser,No One Can Defeat It,C Quality Item.png,Semiautomatic,1,50,80,0.07,1.5,1,15,32,5,Fires a large square bullet that moves extremely slowly.
 RC Rocket.png,RC Rocket,Avoid User Error,A Quality Item.png,Semiautomatic,1,50,100,0.60,1.5,10,200,10,1,Fires rockets guided by the player's cursor.
 RPG.png,RPG,Leveled Up,B Quality Item.png,Semiautomatic,1,40,20 (impact) + 35 (explosion),1.00,3.0,40,90,10,5,Fires grenades.
 RUBE-ADYNE MK.II.png,RUBE-ADYNE MK.II,Polished Product,A Quality Item.png,Semiautomatic,15,300,8,0.10,0.48,40,35,10,7,Fires bouncing lasers with limited range.
 RUBE-ADYNE Prototype.png,RUBE-ADYNE Prototype,It Never Quits,B Quality Item.png,Semiautomatic,6,200,7,0.12,0.6,40,60,10,5,Fires lasers that bounce four times.
-Rad Gun.png,Rad Gun,Totally Rad,B Quality Item.png,Semiautomatic,12,250,Varies,,,,,,,Increases coolness by 2. When reloading, if the reload button is hit at the right time, the gun's damage is increased. Failing a reload resets the damage.
+Rad Gun.png,Rad Gun,Totally Rad,B Quality Item.png,Semiautomatic,12,250,Varies,,,,,,,Increases coolness by 2. When reloading if the reload button is hit at the right time the gun's damage is increased. Failing a reload resets the damage.
 Raiden Coil.png,Raiden Coil,Shoot Em' Up,A Quality Item.png,Beam,500,500,15/s,0.10,N/A,Infinity.png,30,10,5,Fires a laser that homes in on all on-screen enemies.
 Railgun.png,Railgun,Calibrating,1S Quality Item.png,Charged,1,40,50,,0.6,,,,,Fires a fast-moving piercing bullet that bounces many times.
-Rattler.png,Rattler,Snakes On A Gun,B Quality Item.png,Semiautomatic,8,200,3x7 (21) 0.20,1.2,23,60,30,0,Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies.
-Regular Shotgun.png,Regular Shotgun,Cocked And Loaded,D Quality Item.png,Semiautomatic,8,150,4x6 (24) 0.60,1.8,23,60,30,10,
+Rattler.png,Rattler,Snakes On A Gun,B Quality Item.png,Semiautomatic,8,200,3x7 (21),0.20,1.2,23,60,30,0,Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies.
+Regular Shotgun.png,Regular Shotgun,Cocked And Loaded,D Quality Item.png,Semiautomatic,8,150,4x6 (24),0.60,1.8,23,60,30,10,
 Robot's Left Hand.png,Robot's Left Hand,See You Later,A Quality Item.png,Automatic,60,600,,,,,,,,Rapidly fires blue lasers.
 Robot's Right Hand.png,Robot's Right Hand,Built To Kill,N/A,Semiautomatic,20,Infinity.png,5,0.20,1.2,25,20,10,7,Starting weapon of The Robot. Does not reveal secret walls.
-Rogue Special.png,Rogue Special,Underhanded And Efficient,N/A,Semiautomatic,8,Infinity.png,5,0.25,1.2,22,13,6,10,Fires short-range, inaccurate lasers. Starting gun of The Pilot. Does not reveal secret walls.
+Rogue Special.png,Rogue Special,Underhanded And Efficient,N/A,Semiautomatic,8,Infinity.png,5,0.25,1.2,22,13,6,10,Fires short-range inaccurate lasers. Starting gun of The Pilot. Does not reveal secret walls.
 Rusty Sidearm.png,Rusty Sidearm,Still Works. Mostly.,N/A,Semiautomatic,6,Infinity.png,6,0.20,1.2,16,16,10,7,Starting gun of The Hunter. Does not reveal secret walls.
-SAA.png,SAA,Exhilarating Reload Time,B Quality Item.png,Semiautomatic,6,200,Direct: 8 Bounce: 12 0.12,0.6,25,Infinity.png,14,0,Fires bouncing bullets that aim towards enemies after bouncing.
-Sawed-Off.png,Sawed-Off,No Butts About It,D Quality Item.png,Semiautomatic,6,150,4x4 (16) 0.50,1.2,23,60,30,8,
-Science Cannon.png,Science Cannon,Charged Particles,B Quality Item.png,Beam,500,500,26/s,0.10,N/A,90,500,35,0,Fires a large laser after a short charge-up, which inflicts random status effects on enemies.
+SAA.png,SAA,Exhilarating Reload Time,B Quality Item.png,Semiautomatic,6,200,Direct: 8 Bounce: 12,0.12,0.6,25,Infinity.png,14,0,Fires bouncing bullets that aim towards enemies after bouncing.
+Sawed-Off.png,Sawed-Off,No Butts About It,D Quality Item.png,Semiautomatic,6,150,4x4 (16),0.50,1.2,23,60,30,8,
+Science Cannon.png,Science Cannon,Charged Particles,B Quality Item.png,Beam,500,500,26/s,0.10,N/A,90,500,35,0,Fires a large laser after a short charge-up which inflicts random status effects on enemies.
 Screecher.png,Screecher,Cover Your Ears!,C Quality Item.png,Automatic,1000,1000,1.5,0.05,0.6,12,12,0,0,Rapidly fires piercing sound waves that have a small chance to stun.
 Serious Cannon.png,Serious Cannon,Seriously MENTAL,A Quality Item.png,Charged,1,30,50,0.60,1.5,35,Infinity.png,60,6,Fires large bouncing cannonballs.
 Shades's Revolver.png,Shades's Revolver,Someone Loses An Eye,C Quality Item.png,Semiautomatic,6,150,15,0.30,1.5,23,60,30,6,Increases coolness by 3.
-Shell.png,Shell,Fires Shotguns,B Quality Item.png,Semiautomatic,6,150,Shotguns: 8 Bullets: 4,,,,,,,Fires three shotguns, each of which fires three bullets upon hitting something.
+Shell.png,Shell,Fires Shotguns,B Quality Item.png,Semiautomatic,6,150,Shotguns: 8 Bullets: 4,,,,,,,Fires three shotguns each of which fires three bullets upon hitting something.
 Shellegun.png,Shellegun,Circle Of Death,B Quality Item.png,Semiautomatic,12 (pistol) 20 (beam),300,8,0.10,1.08,25,30,22,5,Reloading alternates between a pistol and a continuous beam. Increases curse by 1.
 Shock Rifle.png,Shock Rifle,Zap,B Quality Item.png,Semiautomatic,15,250,8,0.20,1.5,140,Infinity.png,20,5,Fires a zap of electricity.
-Shotbow.png,Shotbow,A Teleporter Accident,B Quality Item.png,Semiautomatic,3,80,6x6 (36) 1.00,1.5,26,Infinity.png,25,5,Fires a shotgun blast of bolts.
-Shotgrub.png,Shotgrub,No Worries!,C Quality Item.png,Semiautomatic,8,250,5x5 (25) 0.40,1.5,23,60,30,0,Fires a spread of 5 bullets that leave small pools of poison goop.
-Shotgun Full of Hate.png,Shotgun Full of Hate,Hate Is Power!,A Quality Item.png,Semiautomatic,8,150,6x4 (bullets) + 5 (skull) + 3 (nail),0.50,1.2,23,60,30,14,Shoots a shotgun burst of skulls, nails, regular bullets, and poison bullets that leave pools of poison goop.
-Shotgun Full of Love.png,Shotgun Full of Love,Kill With Kindness,A Quality Item.png,Semiautomatic,8,120,5x6 (30) 0.50,1.2,23,60,30,14,Has a chance to Charm enemies.
+Shotbow.png,Shotbow,A Teleporter Accident,B Quality Item.png,Semiautomatic,3,80,6x6 (36),1.00,1.5,26,Infinity.png,25,5,Fires a shotgun blast of bolts.
+Shotgrub.png,Shotgrub,No Worries!,C Quality Item.png,Semiautomatic,8,250,5x5 (25),0.40,1.5,23,60,30,0,Fires a spread of 5 bullets that leave small pools of poison goop.
+Shotgun Full of Hate.png,Shotgun Full of Hate,Hate Is Power!,A Quality Item.png,Semiautomatic,8,150,6x4 (bullets) + 5 (skull) + 3 (nail),0.50,1.2,23,60,30,14,Shoots a shotgun burst of skulls nails regular bullets and poison bullets that leave pools of poison goop.
+Shotgun Full of Love.png,Shotgun Full of Love,Kill With Kindness,A Quality Item.png,Semiautomatic,8,120,5x6 (30),0.50,1.2,23,60,30,14,Has a chance to Charm enemies.
 Silencer.png,Silencer,300 Dead Count,C Quality Item.png,Semiautomatic,8,200,13,0.60,1.5,23,60,30,5,Fires zippers. Hitting an enemy with the swing of the weapon will stun the enemy.
-Siren.png,Siren,Mershotgun,C Quality Item.png,Semiautomatic,6,200,6x3 (18) 0.40,1.5,23,60,30,0,Fires a shotgun blast of bullets that leave pools of water. Negates fall damage and goop effects while equipped.
+Siren.png,Siren,Mershotgun,C Quality Item.png,Semiautomatic,6,200,6x3 (18),0.40,1.5,23,60,30,0,Fires a shotgun blast of bullets that leave pools of water. Negates fall damage and goop effects while equipped.
 Skull Spitter.png,Skull Spitter,Hard Headed,C Quality Item.png,Semiautomatic,10,150,10,0.30,1.0,15,Infinity.png,10,0,Fires homing skulls.
 Sling.png,Sling,Outrageous!,D Quality Item.png,Charged,1,80,25,0.10,0.9,23,Infinity.png,35,0,Fires rocks that bounce once. Deals additional damage to bosses.
 Smiley's Revolver.png,Smiley's Revolver,All Smiles,B Quality Item.png,Semiautomatic,6,250,9,0.10,0.7,23,60,30,6,Decreases shop prices while held. Fire rate increased shortly after rolling.
 Snakemaker.png,Snakemaker,SSSSSSSSSSS,A Quality Item.png,Semiautomatic,10,200,12,0.25,1.2,50,Infinity.png,10,0,Has a chance to transmogrify enemies into snakes.
 Sniper Rifle.png,Sniper Rifle,Scope Creep,C Quality Item.png,Semiautomatic,10,80,26,1.00,1.5,200,Infinity.png,15,1,Fires bullets that can pierce through one enemy.
 Snowballer.png,Snowballer,May Contain Rocks,D Quality Item.png,Automatic,20,400,3.5,0.15,1.2,28,35,10,10,Fires snowballs that have a chance to freeze enemies.
-Staff of Firepower.png,Staff of Firepower,Missing Link,A Quality Item.png,Semiautomatic,6 (gun) 12 (staff),200,Gun: 7 Staff: 12 0.15,1.0,25,Infinity.png,12,7,Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire.
+Staff of Firepower.png,Staff of Firepower,Missing Link,A Quality Item.png,Semiautomatic,6 (gun) 12 (staff),200,Gun: 7 Staff: 12,0.15,1.0,25,Infinity.png,12,7,Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire.
 Starpew.png,Starpew,Reap And Sow,A Quality Item.png,Charged,Infinity.png,100,5,,,,,,,Fires water droplets. Can be charged to increase the number of droplets fired.
-Sticky Crossbow.png,Sticky Crossbow,Reload, Explode,C Quality Item.png,Semiautomatic,5,100,5 (arrow) + 15 (explosion),0.50,1.5,25,Infinity.png,8,0,Fires bolts that stick to the enemy and explode upon reloading.
+Sticky Crossbow.png,Sticky Crossbow,Reload Explode,C Quality Item.png,Semiautomatic,5,100,5 (arrow) + 15 (explosion),0.50,1.5,25,Infinity.png,8,0,Fires bolts that stick to the enemy and explode upon reloading.
 Stinger.png,Stinger,Drone Warfare,B Quality Item.png,Semiautomatic,1,50,10 (impact) + 15 (explosion),1.00,2.0,20,60,10,1,Fires homing rockets that explode into bees.
 Strafe Gun.png,Strafe Gun,Bleeding Edge Gameplay,1S Quality Item.png,Automatic,20,400,Impact: 1 Explosion: 8,,,,,,,Fires nails that explode upon releasing the trigger.
-Super Meat Gun.png,Super Meat Gun,Very Fast,A Quality Item.png,Semiautomatic,12,300,6,0.10,0.5,25,Infinity.png,10,5,Fires piercing, bouncing saw blades. Slightly increases movement speed.
+Super Meat Gun.png,Super Meat Gun,Very Fast,A Quality Item.png,Semiautomatic,12,300,6,0.10,0.5,25,Infinity.png,10,5,Fires piercing bouncing saw blades. Slightly increases movement speed.
 T-Shirt Cannon.png,T-Shirt Cannon,Machine Gun Wash Only!,D Quality Item.png,Semiautomatic,6,250,8,0.35,0.9,25,Infinity.png,60,5,Fires t-shirts that have significant knockback.
-Tangler.png,Tangler,Get Wrecktangled,C Quality Item.png,Semiautomatic,4,150,6x6 (36) 0.60,1.5,23,60,30,10,Fires a shotgun blast of rectangular bullets that bounce off walls. Enemies hit will be folded into a rectangle.
+Tangler.png,Tangler,Get Wrecktangled,C Quality Item.png,Semiautomatic,4,150,6x6 (36),0.60,1.5,23,60,30,10,Fires a shotgun blast of rectangular bullets that bounce off walls. Enemies hit will be folded into a rectangle.
 Tear Jerker.png,Tear Jerker,Q_Q,C Quality Item.png,Semiautomatic,20,350,7,0.22,1.2,15,15,10,0,Fires tears that leave behind puddles of water.
 The Emperor.png,The Emperor,Electric Terror,A Quality Item.png,Burst,30,300,7,0.30,1.2,20,50,10,7,Fires a burst of four bullets connected by electricity.
-The Judge.png,The Judge,Hot Shot,B Quality Item.png,Semiautomatic,9,400,7.5,0.15,1.0,30,Infinity.png,9,7,The final shot of each clip has a chance to poison, freeze or ignite enemies. (likely more effects possible)
-The Kiln.png,The Kiln,Fires Pots,C Quality Item.png,Semiautomatic,8,200,Pots: 8 Crystals: 4 0.40,1.2,20,45,6,0,Fires pots that break into 3 bouncing crystals upon hitting something.
-The Membrane.png,The Membrane,Green Or Yellow?,C Quality Item.png,Semiautomatic,6,120,Before split: 4x6 (24) After split: 3x12 (36) 0.20,1.2,22,30,6,8,Fires a shotgun blast of bouncing green bullets that split into more bouncing green bullets.
+The Judge.png,The Judge,Hot Shot,B Quality Item.png,Semiautomatic,9,400,7.5,0.15,1.0,30,Infinity.png,9,7,The final shot of each clip has a chance to poison freeze or ignite enemies. (likely more effects possible)
+The Kiln.png,The Kiln,Fires Pots,C Quality Item.png,Semiautomatic,8,200,Pots: 8 Crystals: 4,0.40,1.2,20,45,6,0,Fires pots that break into 3 bouncing crystals upon hitting something.
+The Membrane.png,The Membrane,Green Or Yellow?,C Quality Item.png,Semiautomatic,6,120,Before split: 4x6 (24) After split: 3x12 (36),0.20,1.2,22,30,6,8,Fires a shotgun blast of bouncing green bullets that split into more bouncing green bullets.
 The Scrambler.png,The Scrambler,Bullet Or The Gun?,C Quality Item.png,Semiautomatic,1,120,6 (egg) + 9x5 (seekers),0.10,1.2,20,32,0,6,Fires bullets that hatch into many homing bullets upon hitting an enemy or obstacle.
-Thompson Sub-Machinegun.png,Thompson Sub-Machinegun,Myeah, See!,C Quality Item.png,Automatic,30,350,5,0.10,0.78,23,Infinity.png,9,10,
+Thompson Sub-Machinegun.png,Thompson Sub-Machinegun,Myeah See!,C Quality Item.png,Automatic,30,350,5,0.10,0.78,23,Infinity.png,9,10,
 Thunderclap.png,Thunderclap,Lightning In A Bullet,A Quality Item.png,Semiautomatic,15,300,8,0.10,1.7,20,Infinity.png,10,5,Fires balls of lightning.
 Trashcannon.png,Trashcannon,Take It Out!,C Quality Item.png,Semiautomatic,1,50,20,0.20,1.2,20,Infinity.png,20,5,Fires a trash bag that explodes into poison projectiles that leave trails of poison goop.
-Trick Gun.png,Trick Gun,Reload To Transform,C Quality Item.png,Semiautomatic,6,200,Pistol: 7 Shotgun: 2x8 (16) 1.2,,,,,Reloading transforms the gun between a pistol and a shotgun.
+Trick Gun.png,Trick Gun,Reload To Transform,C Quality Item.png,Semiautomatic,6,200,Pistol: 7 Shotgun: 2x8 (16),,1.2,,,,,Reloading transforms the gun between a pistol and a shotgun.
 Trident.png,Trident,Under The Sea,A Quality Item.png,Semiautomatic,6,250,8,0.08,1.0,600,Infinity.png,4,0,Fires a long-range laser that pierces one enemy.
-Triple Crossbow.png,Triple Crossbow,3 > 1,C Quality Item.png,Semiautomatic,3,100,Slow: 7 Triple: 7x3 (21) 0.60,0.9,26,Infinity.png,25,5,Reloading alternates between triple bolts and single bolts that slow enemies.
+Triple Crossbow.png,Triple Crossbow,3 > 1,C Quality Item.png,Semiautomatic,3,100,Slow: 7 Triple: 7x3 (21),0.60,0.9,26,Infinity.png,25,5,Reloading alternates between triple bolts and single bolts that slow enemies.
 Unfinished Gun.png,Unfinished Gun,Still Warm,D Quality Item.png,Semiautomatic,15,350,6,0.20,1.5,15,35,6,15,Shots pierce through enemies.
 Unicorn Horn.png,Unicorn Horn,Fires Friendship,A Quality Item.png,Beam,500,500,30/s,0.10,N/A,30,30,45,0,Fires a rainbow beam that homes in on enemies. Increases curse by 1.
-VertebraeK-47.png,VertebraeK-47,Nervous Yet?,B Quality Item.png,Automatic,30,250,4,0.10,1.5,18,Infinity.png,6,5,Bullets close to each other will form links between each other, which hurts enemies on touch.
+VertebraeK-47.png,VertebraeK-47,Nervous Yet?,B Quality Item.png,Automatic,30,250,4,0.10,1.5,18,Infinity.png,6,5,Bullets close to each other will form links between each other which hurts enemies on touch.
 Void Core Assault Rifle.png,Void Core Assault Rifle,Rapid Fire,B Quality Item.png,Burst,30,300,6.5,0.35,1.2,23,20,15,3,Fires bursts of three lasers.
 Void Marshal.png,Void Marshal,Acquired Under The Table,B Quality Item.png,Semiautomatic,15,250,9,0.10,1.2,35,35,10,7,
-Void Shotgun.png,Void Shotgun,CQC,B Quality Item.png,Semiautomatic,4,120,5x6 (30) 0.40,1.2,23,60,30,0,Fires 6 purple bullets with strong knockback.
+Void Shotgun.png,Void Shotgun,CQC,B Quality Item.png,Semiautomatic,4,120,5x6 (30),0.40,1.2,23,60,30,0,Fires 6 purple bullets with strong knockback.
 Vorpal Gun.png,Vorpal Gun,.50 Criticaliber,B Quality Item.png,Semiautomatic,6,250,5,,,,,,,Has a chance to fire a critical shot which deals 20 times its damage.
 Vulcan Cannon.png,Vulcan Cannon,Boundless Slaughter,1S Quality Item.png,Automatic,600,800,4,0.05,0.6,35,Infinity.png,15,12,
 Winchester Rifle.png,Winchester Rifle,Guns And Deviltry.,D Quality Item.png,Semiautomatic,12,130,15,0.72,1.2,32,Infinity.png,9,5,
-Winchester.png,Winchester,Better Than A Box Of Roses,C Quality Item.png,Semiautomatic,8,100,4x6 (24) 0.60,1.7,23,60,30,7,
+Winchester.png,Winchester,Better Than A Box Of Roses,C Quality Item.png,Semiautomatic,8,100,4x6 (24),0.60,1.7,23,60,30,7,
 Wind Up Gun.png,Wind Up Gun,Charge It,D Quality Item.png,Automatic,20,600,5,0.13,1.5,30,35,10,8,The second half of each clip is slower and deals less damage.
 Witch Pistol.png,Witch Pistol,Spells Your Doom,C Quality Item.png,Semiautomatic,6,350,6,0.15,1.2,27,Infinity.png,20,2,Fires bullets that have a chance to transmogrify enemies.
 Yari Launcher.png,Yari Launcher,Hell. Yes.,1S Quality Item.png,Automatic,20,140,10 (impact) + 15 (explosion),0.04,1.5,10,90,30,45,Rapidly fires homing rockets.
-Zilla Shotgun.png,Zilla Shotgun,Quadruple the fun!,A Quality Item.png,Charged,4,240,Uncharged: 4x8 (32) Charged: 6x7 (42) 0.50,2.0,26,Infinity.png,26,20,Can be charged to fire the entire magazine at once, which will cause it to fire piercing, bouncing bullets.
-Zorgun.png,Zorgun,Don't Push The Red Button,A Quality Item.png,Automatic,30,300,5.5,0.10,0.6,23,Infinity.png,9,5,Rapidly fires homing bullets. The final bullet in each clip fires a random explosive (grenade, rocket, or drill).
+Zilla Shotgun.png,Zilla Shotgun,Quadruple the fun!,A Quality Item.png,Charged,4,240,Uncharged: 4x8 (32) Charged: 6x7 (42),0.50,2.0,26,Infinity.png,26,20,Can be charged to fire the entire magazine at once which will cause it to fire piercing bouncing bullets.
+Zorgun.png,Zorgun,Don't Push The Red Button,A Quality Item.png,Automatic,30,300,5.5,0.10,0.6,23,Infinity.png,9,5,Rapidly fires homing bullets. The final bullet in each clip fires a random explosive (grenade rocket or drill).
