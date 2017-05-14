@@ -1,3 +1,4 @@
+GetGunInformationIntent give me information about {Gun}
 GetGunInformationIntent tell me about {Gun}
 GetGunInformationIntent what about {Gun}
 GetGunInformationIntent what is {Gun}
