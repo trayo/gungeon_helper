@@ -36,7 +36,7 @@ Charmed Bow.png,Charmed Bow,<3-----<<<,B Quality Item.png,Charged,1,150,Uncharge
 Cobalt Hammer.png,Cobalt Hammer,Break Stuff,A Quality Item.png,Charged,6,60,Uncharged: 26 Charged: 36,0.30,1.2,100,Infinity.png,80,0,Fires blue lasers. Charging the weapon makes it fire lasers in four directions.
 Cold 45.png,Cold 45,Shatterday Night Special,B Quality Item.png,Semiautomatic,12,350,6,0.15,1.2,28,35,10,6,Fires bullets that freeze enemies.
 Colt 1851.png,Colt 1851,You Dig,C Quality Item.png,Burst,12,350,6,0.21,1.5,25,Infinity.png,10,8,Fires a burst of two bullets.
-Com4nd0.png,Com4nd0,You're Fired,B Quality Item.png,Semiautomatic,4,40,20 (impact) + 25 (explosion),0.60,1.5,14,90,10,5,Fires homing rockets.
+Commando.png,Commando,You're Fired,B Quality Item.png,Semiautomatic,4,40,20 (impact) + 25 (explosion),0.60,1.5,14,90,10,5,Fires homing rockets.
 Composite Gun.png,Composite Gun,Undetectable,1S Quality Item.png,Charged,2,50,Uncharged: 40 Charged: 100,0.20,0.6,25,Infinity.png,10,0,Charged shot consumes all ammo in magazine and can pierce enemies.
 Compressed Air Tank.png,Compressed Air Tank,You Know My Work,A Quality Item.png,Charged,1,50,50,0.60,1.2,35,Infinity.png,60,6,Fires sharks that swim around the room seeking enemies and biting them.
 Corsair.png,Corsair,Plot A Course,C Quality Item.png,Charged,1,200,10,0,0.5,26,Infinity.png,25,5,Fires slow-moving bullets that accelerate and bounce around the room.
@@ -46,7 +46,7 @@ Crossbow.png,Crossbow,The Original,D Quality Item.png,Semiautomatic,1,100,22,0.5
 Crown of Guns.png,Crown of Guns,All Hail,C Quality Item.png,Automatic,Infinity.png,3000,5.5,,,,,,,Sits atop the player's head and fires bullets in all directions.
 Dark Marker.png,Dark Marker,Big Bang,1S Quality Item.png,Semiautomatic,12,200,Bullets: 8 Explosion: 80,0.20,2.0,32,Infinity.png,20,0,Charge shot consumes the entire clip to create a room-wide explosion and blank effect.
 Dart Gun.png,Dart Gun,Sticky,N/A,Semiautomatic,6,Infinity.png,6,0.20,1.0,20,25,2,5,Fires sticky darts. Starting weapon of The Cultist. Does not reveal secret walls.
-Deck4rd.png,Deck4rd,Unicorn Of Handguns,A Quality Item.png,Semiautomatic,2,40,5 (impact) + 35 (explosion),0.20,1.5,20,Infinity.png,22,10,Fires a single powerful bullet that will explode upon impact.
+Deckard.png,Deckard,Unicorn Of Handguns,A Quality Item.png,Semiautomatic,2,40,5 (impact) + 35 (explosion),0.20,1.5,20,Infinity.png,22,10,Fires a single powerful bullet that will explode upon impact.
 Demon Head.png,Demon Head,Wanged,B Quality Item.png,Beam,500,500,31/s,0.10,N/A,100,40,30,5,Fires a continuous beam that has a chance to inflict Burn and slightly homes in on enemies.
 Derringer.png,Derringer,One Last Trick,D Quality Item.png,Semiautomatic,2,200,10,0.07,1.2,23,60,30,6,
 Devolver.png,Devolver,Degenerates,C Quality Item.png,Semiautomatic,6,100,6,,,,,,,Has a chance to devolve enemies into simpler enemies.
@@ -79,7 +79,7 @@ Gungine.png,Gungine,12 Cylinder,1S Quality Item.png,Automatic,100,800,5,0.05,1.1
 Gunslinger's Ashes.png,Gunslinger's Ashes,Spirit Willing,C Quality Item.png,Semiautomatic,6,80,Contact: 12 Shots: 5x3 (15),0.60,1.2,1,6,25,0,Releases an armed spirit that attacks enemies.
 Gunther.png,Gunther,Jealous Weapon,1S Quality Item.png,Semiautomatic,15,Infinity.png,6,0.10,1.2,16,50,20,10,Cannot be used to reveal hidden walls. Grows stronger with each room cleared.
 Gunzheng.png,Gunzheng,Hustle,B Quality Item.png,Automatic,350,800,6,0.07,0.0,32,Infinity.png,8,35,Rapidly fires inaccurate piercing homing arrows.
-H4mmer.png,H4mmer,Many Bullets,B Quality Item.png,Automatic,30,450,Bullets: 3.8 Hammer: 20, 0.05,0.6,23,Infinity.png,6,7,Fires a barrage of bullets. The last shot in the magazine is a hammer which deals extra damage and can stun enemies.
+Hammer.png,Hammer,Many Bullets,B Quality Item.png,Automatic,30,450,Bullets: 3.8 Hammer: 20, 0.05,0.6,23,Infinity.png,6,7,Fires a barrage of bullets. The last shot in the magazine is a hammer which deals extra damage and can stun enemies.
 Heck Blaster.png,Heck Blaster,Whoa Nelly,B Quality Item.png,Automatic,999,999,2.5,0.05,0.3,40,14,3,8,Rapidly fires invisible bullets.
 Hegemony Carbine.png,Hegemony Carbine,All The Same,C Quality Item.png,Automatic,25,600,3.5,0.10,1.4,30,50,4,5,Shoots rapid fire white bolts of energy.
 Hegemony Rifle.png,Hegemony Rifle,So Precise,B Quality Item.png,Semiautomatic,15,250,10,0.25,1.2,35,15,15,13,Rapidly fires inaccurate white lasers.
