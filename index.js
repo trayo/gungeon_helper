@@ -1,29 +1,41 @@
 'use strict';
 
-var Papa = require('papaparse');
-var fs = require('fs');
-var path = require('path');
+var Alexa = require('alexa-sdk');
+var Guns = require('./lib/guns');
 
-var file = fs.readFileSync(path.join(__dirname, 'guns.csv'));
+var guns = new Guns();
 
-var t = Papa.parse(file.toString(), {header: true, skipEmptyLines: true})
+var handlers = {
+  'GetGunInformationIntent': function () {
+    var gun = guns.find_by_name(this.event.request.intent.slots.Gun.value);
 
-console.log(t)
+    var gunInformation = gun.name + '. ' +
+      gun.notes +
+      ' The ' + gun.name + ' has a quality of ' + gun.quality + ',' +
+      ' and the damage is ' + gun.damage + '.'
 
-// var Alexa = require('alexa-sdk');
+    this.emit(':tell', gunInformation);
+  },
 
-// exports.handler = function(event, context, callback){
-//     var alexa = Alexa.handler(event, context);
-// };
+  'GetQualityIntent': function () {
+    var gun = guns.find_by_name(this.event.request.intent.slots.Gun.value);
 
-// var handlers = {
-//     'HelloWorldIntent': function () {
-//         this.emit(':tell', 'Hello World!');
-//     }
-// };
+    this.emit(':tell', 'The quality for ' + gun.name + ' is ' + gun.quality + '.');
+  },
 
-// exports.handler = function(event, context, callback) {
-//     var alexa = Alexa.handler(event, context);
-//     alexa.registerHandlers(handlers);
-//     alexa.execute();
-// };
+  'GetDamageIntent': function () {
+    var gun = guns.find_by_name(this.event.request.intent.slots.Gun.value);
+
+    this.emit(':tell', 'The damage for ' + gun.name + ' is ' + gun.damage + '.');
+  },
+
+  'Unhandled': function () {
+    this.emit(':tell', 'Ask for information, quality or damage of a gun',  'Ask for information, quality or damage of a gun');
+  }
+};
+
+exports.handler = function(event, context, callback) {
+  var alexa = Alexa.handler(event, context);
+  alexa.registerHandlers(handlers);
+  alexa.execute();
+};
