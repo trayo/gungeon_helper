@@ -4,7 +4,8 @@ GetGunInformationIntent what is {Gun}
 
 GetQualityIntent what is the quality for {Gun}
 GetQualityIntent what is the quality of {Gun}
+GetQualityIntent tell me the quality of {Gun}
 
 GetDamageIntent what is the damage for {Gun}
 GetDamageIntent what is the damage of {Gun}
-
+GetDamageIntent tell me the damage of {Gun}
