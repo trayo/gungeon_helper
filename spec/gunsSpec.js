@@ -17,4 +17,10 @@ describe('Gun', function() {
 
     expect(gun.name).toEqual('dart gun')
   });
+
+  it('returns undefined when a gun does not exist', function() {
+    gun = guns.find_by_name('magic bullet')
+
+    expect(gun).toEqual(undefined)
+  });
 })
