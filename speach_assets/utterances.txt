@@ -2,11 +2,14 @@ GetGunInformationIntent give me information about {Gun}
 GetGunInformationIntent tell me about {Gun}
 GetGunInformationIntent what about {Gun}
 GetGunInformationIntent what is {Gun}
+GetGunInformationIntent about {Gun}
 
 GetQualityIntent what is the quality for {Gun}
 GetQualityIntent what is the quality of {Gun}
+GetQualityIntent what the quality of {Gun} is
 GetQualityIntent tell me the quality of {Gun}
 
 GetDamageIntent what is the damage for {Gun}
 GetDamageIntent what is the damage of {Gun}
+GetDamageIntent what the damage of {Gun} is
 GetDamageIntent tell me the damage of {Gun}
