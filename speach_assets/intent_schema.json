@@ -5,7 +5,7 @@
       "slots": [
         {
           "name": "Item",
-          "type": "string"
+          "type": "LIST_OF_ITEMS"
         }
       ]
     },
@@ -14,7 +14,7 @@
       "slots": [
         {
           "name": "Item",
-          "type": "string"
+          "type": "LIST_OF_ITEMS"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "slots": [
         {
           "name": "Item",
-          "type": "string"
+          "type": "LIST_OF_ITEMS"
         }
       ]
     }
