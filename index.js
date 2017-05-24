@@ -1,41 +1,41 @@
 'use strict';
 
 var Alexa = require('alexa-sdk');
-var Guns = require('./lib/guns');
+var Items = require('./lib/items');
 
-var guns = new Guns();
+var items = new Items();
 
 var handlers = {
-  'GetGunInformationIntent': function () {
-    var gun = guns.find_by_name(this.event.request.intent.slots.Gun.value);
+  'GetItemInformationIntent': function () {
+    var item = items.find_by_name(this.event.request.intent.slots.Item.value);
 
-    if (gun) {
-      var gunInformation = gun.name + '. ' +
-        gun.notes +
-        ' The ' + gun.name + ' has a quality of ' + gun.quality + ',' +
-        ' and the damage is ' + gun.damage + '.'
+    if (item) {
+      var itemInformation = item.name + '. ' +
+        item.notes +
+        ' The ' + item.name + ' has a quality of ' + item.quality + ',' +
+        ' and the damage is ' + item.damage + '.'
 
-      this.emit(':tell', gunInformation);
+      this.emit(':tell', itemInformation);
     } else {
       this.emit(':tell', 'NotFoundIntent');
     }
   },
 
   'GetQualityIntent': function () {
-    var gun = guns.find_by_name(this.event.request.intent.slots.Gun.value);
+    var item = items.find_by_name(this.event.request.intent.slots.Item.value);
 
-    if (gun) {
-      this.emit(':tell', 'The quality for ' + gun.name + ' is ' + gun.quality + '.');
+    if (item) {
+      this.emit(':tell', 'The quality for ' + item.name + ' is ' + item.quality + '.');
     } else {
       this.emit(':tell', 'NotFoundIntent');
     }
   },
 
   'GetDamageIntent': function () {
-    var gun = guns.find_by_name(this.event.request.intent.slots.Gun.value);
+    var item = items.find_by_name(this.event.request.intent.slots.Item.value);
 
-    if (gun) {
-      this.emit(':tell', 'The damage for ' + gun.name + ' is ' + gun.damage + '.');
+    if (item) {
+      this.emit(':tell', 'The damage for ' + item.name + ' is ' + item.damage + '.');
     } else {
       this.emit(':tell', 'NotFoundIntent');
     }

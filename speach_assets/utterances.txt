@@ -1,15 +1,15 @@
-GetGunInformationIntent give me information about {Gun}
-GetGunInformationIntent tell me about {Gun}
-GetGunInformationIntent what about {Gun}
-GetGunInformationIntent what is {Gun}
-GetGunInformationIntent about {Gun}
+GetItemInformationIntent give me information about {Item}
+GetItemInformationIntent tell me about {Item}
+GetItemInformationIntent what about {Item}
+GetItemInformationIntent what is {Item}
+GetItemInformationIntent about {Item}
 
-GetQualityIntent what is the quality for {Gun}
-GetQualityIntent what is the quality of {Gun}
-GetQualityIntent what the quality of {Gun} is
-GetQualityIntent tell me the quality of {Gun}
+GetQualityIntent what is the quality for {Item}
+GetQualityIntent what is the quality of {Item}
+GetQualityIntent what the quality of {Item} is
+GetQualityIntent tell me the quality of {Item}
 
-GetDamageIntent what is the damage for {Gun}
-GetDamageIntent what is the damage of {Gun}
-GetDamageIntent what the damage of {Gun} is
-GetDamageIntent tell me the damage of {Gun}
+GetDamageIntent what is the damage for {Item}
+GetDamageIntent what is the damage of {Item}
+GetDamageIntent what the damage of {Item} is
+GetDamageIntent tell me the damage of {Item}
