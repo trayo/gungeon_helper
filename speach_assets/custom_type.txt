@@ -35,7 +35,7 @@ Charmed Bow
 Cobalt Hammer
 Cold 45
 Colt 1851
-Com4nd0
+Commando
 Composite Gun
 Compressed Air Tank
 Corsair
@@ -45,7 +45,7 @@ Crossbow
 Crown of Guns
 Dark Marker
 Dart Gun
-Deck4rd
+Deckard
 Demon Head
 Derringer
 Devolver
@@ -78,7 +78,7 @@ Gungine
 Gunslinger's Ashes
 Gunther
 Gunzheng
-H4mmer
+Hammer
 Heck Blaster
 Hegemony Carbine
 Hegemony Rifle

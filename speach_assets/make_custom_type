@@ -1,0 +1,7 @@
+#!/bin/bash
+
+file="custom_type.txt"
+
+rm $file
+
+cat ../guns.csv | cut -d ',' -f2 | tail -n +2 > $file
