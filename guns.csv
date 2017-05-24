@@ -139,7 +139,7 @@ RC Rocket.png,RC Rocket,Avoid User Error,A Quality Item.png,Semiautomatic,1,50,1
 RPG.png,RPG,Leveled Up,B Quality Item.png,Semiautomatic,1,40,20 (impact) + 35 (explosion),1.00,3.0,40,90,10,5,Fires grenades.
 RUBE-ADYNE MK.II.png,RUBE-ADYNE MK.II,Polished Product,A Quality Item.png,Semiautomatic,15,300,8,0.10,0.48,40,35,10,7,Fires bouncing lasers with limited range.
 RUBE-ADYNE Prototype.png,RUBE-ADYNE Prototype,It Never Quits,B Quality Item.png,Semiautomatic,6,200,7,0.12,0.6,40,60,10,5,Fires lasers that bounce four times.
-Rad Gun.png,Rad Gun,Totally Rad,B Quality Item.png,Semiautomatic,12,250,Varies,,,,,,,Increases coolness by 2. When reloading if the reload button is hit at the right time the gun's damage is increased. Failing a reload resets the damage.
+Rad Gun.png,Rad Gun,Totally Rad,B Quality Item.png,Semiautomatic,12,250,Variable,,,,,,,Increases coolness by 2. When reloading if the reload button is hit at the right time the gun's damage is increased. Failing a reload resets the damage.
 Raiden Coil.png,Raiden Coil,Shoot Em' Up,A Quality Item.png,Beam,500,500,15/s,0.10,N/A,Infinity.png,30,10,5,Fires a laser that homes in on all on-screen enemies.
 Railgun.png,Railgun,Calibrating,1S Quality Item.png,Charged,1,40,50,,0.6,,,,,Fires a fast-moving piercing bullet that bounces many times.
 Rattler.png,Rattler,Snakes On A Gun,B Quality Item.png,Semiautomatic,8,200,3x7 (21),0.20,1.2,23,60,30,0,Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies.
