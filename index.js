@@ -17,7 +17,7 @@ var handlers = {
 
       this.emit(':tell', itemInformation);
     } else {
-      this.emit(':tell', 'NotFoundIntent');
+      this.emit('NotFoundIntent');
     }
   },
 
@@ -27,7 +27,7 @@ var handlers = {
     if (item) {
       this.emit(':tell', 'The quality for ' + item.name + ' is ' + item.quality + '.');
     } else {
-      this.emit(':tell', 'NotFoundIntent');
+      this.emit('NotFoundIntent');
     }
   },
 
@@ -37,7 +37,7 @@ var handlers = {
     if (item) {
       this.emit(':tell', 'The damage for ' + item.name + ' is ' + item.damage + '.');
     } else {
-      this.emit(':tell', 'NotFoundIntent');
+      this.emit('NotFoundIntent');
     }
   },
 
