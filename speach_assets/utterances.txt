@@ -1,15 +1,47 @@
+##### GetItemInformationIntent #####
+
 GetItemInformationIntent give me information about {Item}
+GetItemInformationIntent give me information about the {Item}
+
 GetItemInformationIntent tell me about {Item}
-GetItemInformationIntent what about {Item}
+GetItemInformationIntent tell me about the {Item}
+
 GetItemInformationIntent what is {Item}
+GetItemInformationIntent what is the {Item}
+
 GetItemInformationIntent about {Item}
+GetItemInformationIntent about the {Item}
+
+##### GetQualityIntent #####
 
 GetQualityIntent what is the quality for {Item}
+GetQualityIntent what is the quality for the {Item}
+
 GetQualityIntent what is the quality of {Item}
+GetQualityIntent what is the quality of the {Item}
+
 GetQualityIntent what the quality of {Item} is
+GetQualityIntent what the quality of the {Item} is
+
 GetQualityIntent tell me the quality of {Item}
+GetQualityIntent tell me the quality of the {Item}
+
+GetQualityIntent for the quality of {Item}
+GetQualityIntent for the quality of then {Item}
+
+##### GetDamageIntent #####
 
 GetDamageIntent what is the damage for {Item}
+GetDamageIntent what is the damage for the {Item}
+
 GetDamageIntent what is the damage of {Item}
+GetDamageIntent what is the damage of the {Item}
+
 GetDamageIntent what the damage of {Item} is
+GetDamageIntent what the damage of the {Item} is
+
 GetDamageIntent tell me the damage of {Item}
+GetDamageIntent tell me the damage of the {Item}
+
+GetDamageIntent for the damage of {Item}
+GetDamageIntent for the damage of the {Item}
