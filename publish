@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "zipping gungeon.zip"
+zip -r --quiet gungeon.zip .
+
+echo "uploading to aws"
+aws lambda update-function-code --function-name GungeonHelper --zip-file fileb://gungeon.zip
+
+if [ $? -ne 0 ]; then
+  echo "uploading failed"
+else
+  echo "uploading successful"
+fi
