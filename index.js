@@ -6,8 +6,17 @@ var Items = require('./lib/items');
 var items = new Items();
 
 var handlers = {
+  'LaunchRequest': function (event, context) {
+    this.emit(':ask',
+      'Okay. With Gungeon helper you can ask for information about an item. ' +
+      'Such as, tell me about the rad gun. ' +
+      'Or, what is the quality of the unicorn horn.'
+    );
+  },
+
   'GetItemInformationIntent': function () {
-    var item = items.find_by_name(this.event.request.intent.slots.Item.value);
+    var value = this.event.request.intent.slots.Item.value;
+    var item = items.find_by_name(value);
 
     if (item) {
       var itemInformation = item.name + '. ' +
@@ -17,36 +26,43 @@ var handlers = {
 
       this.emit(':tell', itemInformation);
     } else {
-      this.emit('NotFoundIntent');
+      this.emit('NotFoundIntent', value);
     }
   },
 
   'GetQualityIntent': function () {
-    var item = items.find_by_name(this.event.request.intent.slots.Item.value);
+    var value = this.event.request.intent.slots.Item.value;
+    var item = items.find_by_name(value);
 
     if (item) {
       this.emit(':tell', 'The quality for ' + item.name + ' is ' + item.quality + '.');
     } else {
-      this.emit('NotFoundIntent');
+      this.emit('NotFoundIntent', value);
     }
   },
 
   'GetDamageIntent': function () {
-    var item = items.find_by_name(this.event.request.intent.slots.Item.value);
+    var value = this.event.request.intent.slots.Item.value;
+    var item = items.find_by_name(value);
 
     if (item) {
       this.emit(':tell', 'The damage for ' + item.name + ' is ' + item.damage + '.');
     } else {
-      this.emit('NotFoundIntent');
+      this.emit('NotFoundIntent', value);
     }
   },
 
-  'NotFoundIntent': function () {
-    this.emit(':tell', 'I didn\'t find the item you asked for.');
+  'NotFoundIntent': function (value) {
+    this.emit(':tell',
+      'I didn\'t find ' + value + '.'
+    );
   },
 
   'Unhandled': function () {
-    this.emit(':tell', 'Ask for information, quality or damage of an item.',  'Ask for information, quality or damage of an item.');
+    this.emit(':tell',
+      'Ask for information, quality or damage of an item.',
+      'Ask for information, quality or damage of an item.'
+    );
   }
 };
 
