@@ -37,7 +37,7 @@ describe('Item', function() {
   })
 
   it('accepts damage as a number', function() {
-    var data = { Damage: 22 }
+    var data = { Name: 'blank', Damage: 22 }
 
     item = new Item(data);
 
@@ -51,25 +51,25 @@ describe('Item', function() {
   });
 
   it('changes empty quality to not found', function() {
-   item = new Item({})
+   item = new Item({ Name: 'blank' })
 
    expect(item.quality).toEqual('not found')
   });
 
   it('changes empty damage to not found', function() {
-   item = new Item({})
+   item = new Item({ Name: 'blank' })
 
    expect(item.damage).toEqual('not found')
   });
 
   it('changes empty notes to not found', function() {
-   item = new Item({})
+   item = new Item({ Name: 'blank' })
 
    expect(item.notes).toEqual('not found')
   });
 
   it('removes apostrophes from names', function() {
-   item = new Item({Name: 'Robot\'s Left Hand'})
+   item = new Item({ Name: 'Robot\'s Left Hand' })
 
    expect(item.name).toEqual('robots left hand')
   });
