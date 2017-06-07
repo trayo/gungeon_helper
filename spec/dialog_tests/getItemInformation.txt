@@ -1,0 +1,3 @@
+LaunchRequest
+GetItemInformationIntent Item=rad%20gun
+GetItemInformationIntent Item=not%20real
