@@ -73,4 +73,10 @@ describe('Item', function() {
 
    expect(item.name).toEqual('robots left hand')
   });
+
+  it('changes periods to spaces', function() {
+   item = new Item({ Name: 'A.W.P.' })
+
+   expect(item.name).toEqual('a w p')
+  });
 })

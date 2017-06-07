@@ -29,4 +29,10 @@ describe('Item', function() {
 
     expect(item.name).toEqual('robots left hand')
   });
+
+  it('can find an item with periods and spaces', function() {
+    item = items.find_by_name('a. w. p.')
+
+    expect(item.name).toEqual('a w p')
+  });
 })
