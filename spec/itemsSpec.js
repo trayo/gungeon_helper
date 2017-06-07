@@ -23,4 +23,10 @@ describe('Item', function() {
 
     expect(item).toEqual(undefined)
   });
+
+  it('can find an item with an apostrophe', function() {
+    item = items.find_by_name('robot\'s left hand')
+
+    expect(item.name).toEqual('robots left hand')
+  });
 })
