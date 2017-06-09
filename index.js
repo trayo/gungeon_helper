@@ -10,7 +10,8 @@ var handlers = {
     this.emit(':ask',
       'Okay. With Gungeon helper you can ask for information about an item. ' +
       'Such as, tell me about the rad gun. ' +
-      'Or, what is the quality of the unicorn horn.'
+      'Or, what is the quality of the unicorn horn.' +
+      'What item would you like to know about?'
     );
   },
 
@@ -19,12 +20,11 @@ var handlers = {
     var item = items.find_by_name(value);
 
     if (item) {
-      var itemInformation = item.name + '. ' +
+      this.emit(':tell',
+        'Okay. I found ' + item.name + '. ' +
         item.notes +
         ' The ' + item.name + ' has a quality of ' + item.quality + ',' +
-        ' and the damage is ' + item.damage + '.'
-
-      this.emit(':tell', itemInformation);
+        ' and the damage is ' + item.damage + '.');
     } else {
       this.emit('NotFoundIntent', value);
     }
@@ -35,7 +35,9 @@ var handlers = {
     var item = items.find_by_name(value);
 
     if (item) {
-      this.emit(':tell', 'The quality for ' + item.name + ' is ' + item.quality + '.');
+      this.emit(':tell',
+        'The quality for ' + item.name + ' is ' + item.quality + '.'
+      );
     } else {
       this.emit('NotFoundIntent', value);
     }
@@ -46,7 +48,9 @@ var handlers = {
     var item = items.find_by_name(value);
 
     if (item) {
-      this.emit(':tell', 'The damage for ' + item.name + ' is ' + item.damage + '.');
+      this.emit(':tell',
+        'The damage for ' + item.name + ' is ' + item.damage + '.'
+      );
     } else {
       this.emit('NotFoundIntent', value);
     }
