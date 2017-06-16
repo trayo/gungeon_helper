@@ -1,4 +1,11 @@
 LaunchRequest
+GetItemInformationIntent Item=rad%20gun
+GetItemInformationIntent Item=not%20real
+GetQualityIntent Item=unicorn%20horn
+GetQualityIntent Item=not%20real
+GetDamageIntent Item=saa
+GetDamageIntent Item=not%20real
 AMAZON.HelpIntent
 AMAZON.CancelIntent
 AMAZON.StopIntent
+Unhandled

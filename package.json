@@ -4,7 +4,8 @@
   "description": "Alexa skill for Enter the Gungeon",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test:unit": "jasmine",
+    "test:dialog": "node spec/dialog_tests/testFlow.js"
   },
   "keywords": [
     "alexa",

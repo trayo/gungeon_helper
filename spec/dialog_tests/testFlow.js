@@ -101,6 +101,7 @@ var context = {
 
 
     },
+
     'fail': function (err) {
         console.log('context.fail occurred');
         console.log(JSON.stringify(err, null,'\t') );
