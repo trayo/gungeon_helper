@@ -6,11 +6,11 @@ var Items = require('./lib/items');
 var items = new Items();
 
 var handlers = {
-  'LaunchRequest': function (event, context) {
+  'LaunchRequest': function () {
     this.emit(':ask',
       'Okay. With Gungeon helper you can ask for information about an item. ' +
       'Such as, tell me about the rad gun. ' +
-      'Or, what is the quality of the unicorn horn.' +
+      'Or, what is the quality of the unicorn horn. ' +
       'What item would you like to know about?'
     );
   },
@@ -62,10 +62,31 @@ var handlers = {
     );
   },
 
-  'Unhandled': function () {
+  'AMAZON.HelpIntent': function () {
+    var message = 'With Gungeon helper you can ask for information about an item found in the gungeon. ' +
+    'Such as, tell me about the rad gun. ' +
+    'Or, what is the quality of the unicorn horn. ' +
+    'What item would you like to know about?'
+
+    this.emit(':ask', message, message);
+  },
+
+  'AMAZON.CancelIntent': function (value) {
     this.emit(':tell',
-      'Ask for information, quality or damage of an item.',
-      'Ask for information, quality or damage of an item.'
+      'Goodbye'
+    );
+  },
+
+  'AMAZON.StopIntent': function (value) {
+    this.emit(':tell',
+      'Goodbye'
+    );
+  },
+
+  'Unhandled': function () {
+    this.emit(':ask',
+      'Sorry, I didn\'t understand the request. ' +
+      'Would you like to try again?'
     );
   }
 };
