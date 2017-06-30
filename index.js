@@ -8,7 +8,7 @@ var items = new Items();
 var handlers = {
   'LaunchRequest': function () {
     this.emit(':ask',
-      'Okay. With Gungeon helper you can ask for information about an item. ' +
+      'Okay. With Enter the Gungeon Helper you can ask for information about an item. ' +
       'Such as, tell me about the rad gun. ' +
       'Or, what is the quality of the unicorn horn. ' +
       'What item would you like to know about?'
@@ -16,6 +16,10 @@ var handlers = {
   },
 
   'GetItemInformationIntent': function () {
+    if (!this.event.request.intent.slots.Item) {
+      this.emit('Unhandled');
+    }
+
     var value = this.event.request.intent.slots.Item.value;
     var item = items.find_by_name(value);
 
@@ -31,6 +35,10 @@ var handlers = {
   },
 
   'GetQualityIntent': function () {
+    if (!this.event.request.intent.slots.Item) {
+      this.emit('Unhandled');
+    }
+
     var value = this.event.request.intent.slots.Item.value;
     var item = items.find_by_name(value);
 
@@ -44,6 +52,10 @@ var handlers = {
   },
 
   'GetDamageIntent': function () {
+    if (!this.event.request.intent.slots.Item) {
+      this.emit('Unhandled');
+    }
+
     var value = this.event.request.intent.slots.Item.value;
     var item = items.find_by_name(value);
 
@@ -58,7 +70,7 @@ var handlers = {
 
   'NotFoundIntent': function (value) {
     this.emit(':tell',
-      'I didn\'t find ' + value + '.'
+      'I didn\'t find ' + value + ' in my item list. '
     );
   },
 

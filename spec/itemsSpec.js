@@ -35,4 +35,16 @@ describe('Item', function() {
 
     expect(item.name).toEqual('a w p')
   });
+
+  it('returns undefined when provided an empty item', function() {
+    item = items.find_by_name(' ')
+
+    expect(item).toEqual(undefined)
+  });
+
+  it('returns undefined when provided undefined', function() {
+    item = items.find_by_name(undefined)
+
+    expect(item).toEqual(undefined)
+  });
 })
