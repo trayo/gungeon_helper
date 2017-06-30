@@ -16,7 +16,7 @@ var handlers = {
   },
 
   'GetItemInformationIntent': function () {
-    if (!this.event.request.intent.slots.Item) {
+    if (!this.event.request.intent.slots.Item || !this.event.request.intent.slots.Item.value) {
       this.emit('Unhandled');
     }
 
@@ -35,7 +35,7 @@ var handlers = {
   },
 
   'GetQualityIntent': function () {
-    if (!this.event.request.intent.slots.Item) {
+    if (!this.event.request.intent.slots.Item || !this.event.request.intent.slots.Item.value) {
       this.emit('Unhandled');
     }
 
@@ -52,7 +52,7 @@ var handlers = {
   },
 
   'GetDamageIntent': function () {
-    if (!this.event.request.intent.slots.Item) {
+    if (!this.event.request.intent.slots.Item || !this.event.request.intent.slots.Item.value) {
       this.emit('Unhandled');
     }
 
